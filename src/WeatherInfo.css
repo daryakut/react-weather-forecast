@@ -1,0 +1,21 @@
+.WeatherInfo{
+  padding: 3dvh 3dvw;
+}
+h1{
+  font-size: 5rem;
+  text-align: center;
+}
+li{
+  font-size: 2rem;
+}
+.icon-container{
+  display: flex;
+  align-items:end;
+  padding-left: 10%;
+}
+.icon{
+  padding-right: 0.5vw;
+}
+.unit, .temperature{
+   font-size: 1.8rem;
+}
