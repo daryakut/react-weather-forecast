@@ -1,17 +1,17 @@
 .Weather {
-  padding: 5dvh 5dvw;
+  padding: 5dvh 4dvw;
   border: 1px solid #dadde1;
   border-radius: 20px;
    background-color: rgba(255, 255, 255, 0.8);
-   font-size: 2rem;
+   font-size: 1.2rem;
 }
 input{
   height: 5dvh;
-  font-size: 1.7rem;
+  font-size: 1.5rem;
 }
 
 .form-control, .btn{
-   font-size: 1.7rem;
+   font-size: 1.2rem;
 }
 
 .Weather .overview {
@@ -84,7 +84,7 @@ justify-self: center;
 .sourceCodeLink a {
   color: #17195F; 
   font-weight: bold;
-font-size: 2rem;
+font-size: 1.2rem;
    font-style: italic;
   text-decoration: none; 
   text-align: center;
